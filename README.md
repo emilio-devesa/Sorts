@@ -1,4 +1,4 @@
-# SORTS
+# Sorts
 ![Sorts](https://emiliodevesa.files.wordpress.com/2023/12/sorts.png)
 
 Command Line program written in Pascal ISO 10206 (Extended Pascal) that sorts a given list using several sorting algorithms: BubbleSort, InsertionSort, SelectionSort, QuickSort and MergeSort.
